@@ -10,7 +10,7 @@ Theory : The following topics were covered during the Lecture :
 5) To add an element in the list - list6.append("mango")
 6) To change the position of an element in list - list7.insert(1,"mango")
 7) To combine two list - list8.extend(list9)
-8) Practice Questions - [max(),min(),len(),sum(),sum()/len(),sort()
+8) Practice Questions - [max(),min(),len(),sum(),sum()/len(),sort()]
 9) Practice Questions - [append(),remove()]
 
 Algorithm :
