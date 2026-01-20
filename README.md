@@ -6,7 +6,7 @@ Theory : The following topics were covered during the Lecture :
 1) Introduction to "list" in python
 2) To print Alphanumeric list
 3) To implement Indexing of the list
-4) To replace an element in list - (list5[2] = "Orange"
+4) To replace an element in list - (list5[2] = "Orange")
 5) To add an element in the list - list6.append("mango")
 6) To change the position of an element in list - list7.insert(1,"mango")
 7) To combine two list - list8.extend(list9)
