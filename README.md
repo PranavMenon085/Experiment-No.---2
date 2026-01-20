@@ -19,7 +19,7 @@ Algorithm :
       - Read the list
       - Perform : max() - maximum of the list ,min() - minimum of the list , len() - Number of stuents , sum() - Sum of marks of the students , sum()/len()-average of marks of the students , sort() - To sort the list in ascending order
       - Print the Result
-    2) Grocery List
+   2) Grocery List
        - Enter the List
        - Read the List
        - Perform : append() - To add an item to the grocery list , remove() - To remove an item from the grocery list
